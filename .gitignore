@@ -1,0 +1,13 @@
+**/typings/
+
+**/aot/
+**/app/**/*.js
+**/app/**/*.js.map
+
+**/node_modules/
+
+**/src/dist/
+**/src/main*.js*
+
+.vscode/launch.json
+.vscode/settings.json
