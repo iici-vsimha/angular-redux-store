@@ -14,7 +14,9 @@ To run these samples. Please do the following:
 3. In each of the directories run the following sequnce of commands in a terminal window
     
     3.1 npm install
+    
     3.2 npm run build:aot
+    
     3.3 npm run start
     
     This will start a browser window and lanuch index.html which is defaulted to the AOT compiled version. To run the JIT compiled version simply go the the browsers navigation bar and change index.html to index-jit.html.
