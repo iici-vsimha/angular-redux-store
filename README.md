@@ -12,6 +12,7 @@ To run these samples. Please do the following:
 1. Install the latest version of node and npm
 2. Clone or download this repo.
 3. In each of the directories run the following sequnce of commands in a terminal window
+    
     3.1 npm install
     3.2 npm run build:aot
     3.3 npm run start
